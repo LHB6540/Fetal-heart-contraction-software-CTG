@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="胎心宫缩图像系统:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="胎心宫缩图像系统.jar">
+      <element id="module-output" name="胎心宫缩图像系统" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/activation-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/commons-collections4-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jaxb-api-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jaxb-core-2.3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jaxb-impl-2.3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jfreechart-1.0.19-demo.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jfreechart-1.0.19-experimental.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jfreechart-1.0.19-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/jfreesvg-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/orsoncharts-1.4-eval-nofx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/orsonpdf-1.6-eval.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/poi-4.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/OtherJar/swtgraphics2d.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/OtherJar/activation-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/commons-codec-1.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/commons-collections4-4.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/commons-compress-1.18.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/commons-math3-3.6.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jaxb-api-2.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jaxb-core-2.3.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jaxb-impl-2.3.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jcommon-1.0.23.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jfreechart-1.0.19-demo.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jfreechart-1.0.19-experimental.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jfreechart-1.0.19-swt.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jfreechart-1.0.19.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/jfreesvg-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/junit-4.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/junit-4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/log4j-1.2.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/orsoncharts-1.4-eval-nofx.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/orsonpdf-1.6-eval.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/poi-4.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/OtherJar/swtgraphics2d.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
